@@ -39,9 +39,17 @@ html {
 	height: 100%;
 }
 
-body, p {
-	color: #5e6576; 
+body, p{
+	color: #223150; 
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
+}
+
+#p1{
+	color:#d1d1d1;
+}
+
+#p2{
+	color: #223150; 
 }
 
 h1 {
@@ -831,6 +839,7 @@ a:hover {
 .form-1 {
 	padding-top: 9.5rem;
 	padding-bottom: 8.75rem;
+	background-color: #223150;
 }
 
 .form-1 .text-container {
@@ -1023,6 +1032,7 @@ a:hover {
 	.header {
 		padding-top: 9rem;
 		padding-bottom: 5em;
+		background-color: #223150;
 	}
 
 	.header .h1-large {
